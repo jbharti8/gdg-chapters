@@ -1,14 +1,11 @@
-.chapcard{
-    color:black;
-    padding: 10px 15px;
-    font-family: 'Montserrat', sans-serif;
-    font-size: 15px;
+.card-img-top
+{
+    width:60%;
+    height:60%;
+    border-radius: 50%;
+    margin: 2%;
 }
-.chapcard:hover{
-    color:black;
-    text-decoration: none;
-    background-color: rgb(241, 240, 240);
-}
-.flag{
-    padding-left: 2%;
+
+.card-title{
+    text-align: center;
 }
